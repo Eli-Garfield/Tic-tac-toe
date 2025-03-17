@@ -20,6 +20,9 @@ create a menu that's direction tree is:
 # How the game would look like
 
 <img width="481" alt="Menu" src="https://github.com/user-attachments/assets/3fae8206-59f1-47b4-a9ea-d49c8b528d41" />
+![pixil-frame-0](https://github.com/user-attachments/assets/410fc68d-51ef-4248-8561-d28089162bd9)
+<img width="725" alt="Screenshot 2025-03-12 at 12 29 27 PM" src="https://github.com/user-attachments/assets/abdba044-a02b-4f65-9ef4-0e9d72ee8ce7" />
+<img width="728" alt="Screenshot 2025-03-17 at 11 29 52 AM" src="https://github.com/user-attachments/assets/850bca89-a39d-4a89-8b30-5f0692b5a6dc" />
 
 
 
