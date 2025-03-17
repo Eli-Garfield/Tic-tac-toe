@@ -6,16 +6,16 @@ Create a tic-tac-toe game with the abilities to
 4. have in game music
 # But how?
 create a menu that's direction tree is:
-Play
-  Bot or local
-    three in a row
-    four in a row 
-    five in a row
-    connect four
-Music volume
-Cosmetics
-  backgrounds
-  X's
-  O's
+- Play
+  - Bot or local
+   - three in a row
+   - four in a row 
+   - five in a row
+   - connect four
+- Music volume
+- Cosmetics
+ - backgrounds
+   - X's
+   - O's
 
 
