@@ -17,5 +17,9 @@ create a menu that's direction tree is:
  - backgrounds
    - X's
    - O's
+# How the game would look like
+
+<img width="481" alt="Menu" src="https://github.com/user-attachments/assets/3fae8206-59f1-47b4-a9ea-d49c8b528d41" />
+
 
 
