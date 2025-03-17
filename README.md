@@ -8,10 +8,10 @@ Create a tic-tac-toe game with the abilities to
 create a menu that's direction tree is:
 - Play
   - Bot or local
-   - three in a row
-   - four in a row 
-   - five in a row
-   - connect four
+     - three in a row
+     - four in a row 
+     - five in a row
+     - connect four
 - Music volume
 - Cosmetics
  - backgrounds
