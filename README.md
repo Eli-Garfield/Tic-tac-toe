@@ -24,10 +24,12 @@ create a menu that's direction tree is:
 <img width="725" alt="Screenshot 2025-03-12 at 12 29 27 PM" src="https://github.com/user-attachments/assets/abdba044-a02b-4f65-9ef4-0e9d72ee8ce7" />
 <img width="728" alt="Screenshot 2025-03-17 at 11 29 52 AM" src="https://github.com/user-attachments/assets/850bca89-a39d-4a89-8b30-5f0692b5a6dc" />
 
-![Screenshot 2025-03-24 9 58 30 AM](https://github.com/user-attachments/assets/7b3e265b-a3b9-4644-a6b3-8891ee1c168b)
 
 
 
 
 <img width="735" alt="Screenshot 2025-03-17 at 11 40 21 AM" src="https://github.com/user-attachments/assets/0635856f-e273-4dfa-9bdb-dbc5b6d928ca" />
+# Class Diagram
+![Screenshot 2025-03-24 9 58 30 AM](https://github.com/user-attachments/assets/ed633c75-2570-4f09-97e1-920a4825673e)
+
 
